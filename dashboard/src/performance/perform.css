@@ -1,0 +1,36 @@
+.container-p{
+    width: 25%;
+    height: 20vh;
+    background-color: rgb(208, 215, 220);
+    border: 5px black;
+    margin: 10px;
+    position:absolute;
+    bottom: 10%;
+    left: 15%;
+    color: red;
+    /* padding: 10px; */
+}
+.container-r{
+    width: 25%;
+    height: 20vh;
+    background-color: rgb(208, 215, 220);
+    color: red;
+    border: 5px black;
+    margin: 10px;
+    position:absolute;
+    bottom: 10%;
+    left: 41%;
+}
+
+.container-h{
+    width: 25%;
+    height: 20vh;
+    border: 5px black;
+    position:absolute;
+    top:0;
+    left: 0;
+}
+
+span{
+    font-size: 60px;
+}
